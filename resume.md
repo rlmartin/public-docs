@@ -1,5 +1,7 @@
 # Ryan L. Martin
 
+[![Email](images/email.png)](mailto:rlmartin@gmail.com) [![GitHub](images/github.png)](https://github.com/rlmartin) [![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/ryan-l-martin)
+
 ## Education
 **Princeton University**, Computer Science B.S.E., American Studies Certificate, Class of 2001
 
