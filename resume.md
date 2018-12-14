@@ -2,9 +2,24 @@
 
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
+## Zocdoc
+### Director of Engineering - Platform, _Oct 2017-Present_
+* Manage two teams and one engineering manager (11 engineers)
+* Teams building the microservice platform for the company: API-driven development (Swagger), codegen (C# + Scala), infrastructure-as-code
+* Teams working on proof-of-concept for a Kubernetes cluster, including Istio service mesh
+* Owned relationships with major external vendors (AWS, GCP, Datadog, CloudHealth)
+* Responsible for org-wide AWS budget of $2M/yr, plus visibility of spend at the team level
+
+## Bright Systems, Inc
+### First Engineer, _Nov 2017-Oct 2018_
+* Side project with former Gilt CTO
+* Started the full-stack project + general startup peripherals (Slack, GSuite, Jell, etc)
+* React Native app + serverless GraphQL backend in AWS
+* Onboarded a total of three engineers before leaving the project
+
 ## Gilt Groupe / Hudsons Bay Company
-### Senior Director of Engineering, HBC Digital BackOffice, _Oct 2016-Present_
-* Manage 9 teams and 2 directors (35+ engineers including contractors) for HBC Digital (Gilt, Saks, OFF 5TH, Lord & Taylor)
+### Senior Director of Engineering, HBC Digital BackOffice, _Oct 2016-Oct 2017_
+* Managed 9 teams and 2 directors (35+ engineers including contractors) for HBC Digital (Gilt, Saks, OFF 5TH, Lord & Taylor)
 * Continued ownership inherited from previous positions, including writing code
 * Active contributor to https://www.apibuilder.io
 * Active contributor to evangelism efforts: blog posts, speaking engagements, internal knowledge-sharing
