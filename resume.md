@@ -2,8 +2,23 @@
 
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
+## Moda Operandi
+### VP of Engineering, _Jan 2019-Present_
+* Directly manage DevOps/Platform team (5 engineers)
+* QA and Corporate IT also in my org
+* Established formalized interviewing process, using Greenhouse
+* Grew engineering from 35 to 70 engineers in nine months
+  * Established/refined squad structure
+  * Built specialized teams (DevOps, Data Engineering)
+  * Established on-call process
+* Established: [architecture council](https://github.com/ModaOperandi/agora), RFC process, Sprint Demos lightning talk series, longer Tech Talk series
+* Led migration from Heroku to AWS
+* Led (with DevOps/Platform) the build of a fully-instrumented Kubernetes cluster and a software development platform on top of it
+* Hands-on work with Terraform, New Relic, PagerDuty
+* Most senior engineering leader through the majority of my tenure (no CTO)
+
 ## Zocdoc
-### Director of Engineering - Platform, _Oct 2017-Present_
+### Director of Engineering - Platform, _Oct 2017-Jan 2019_
 * Manage two teams and one engineering manager (11 engineers)
 * Teams building the microservice platform for the company: API-driven development (Swagger), codegen (C# + Scala), infrastructure-as-code
 * Teams working on proof-of-concept for a Kubernetes cluster, including Istio service mesh
