@@ -5,7 +5,7 @@
 ## Moda Operandi
 ### VP of Engineering, _Jan 2019-Present_
 * Directly manage DevOps/Platform team (5 engineers)
-* QA and Corporate IT also in my org
+* QA, Corporate IT, and Data also in my org
 * Established formalized interviewing process, using Greenhouse
 * Grew engineering from 35 to 70 engineers in nine months
   * Established/refined squad structure
@@ -14,16 +14,18 @@
 * Established: [architecture council](https://github.com/ModaOperandi/agora), RFC process, Sprint Demos lightning talk series, longer Tech Talk series
 * Led migration from Heroku to AWS
 * Led (with DevOps/Platform) the build of a fully-instrumented Kubernetes cluster and a software development platform on top of it
-* Hands-on work with Terraform, New Relic, PagerDuty
+* Hands-on work with Terraform, New Relic, PagerDuty, Ruby on Rails, Scala
 * Most senior engineering leader through the majority of my tenure (no CTO)
 
 ## Zocdoc
 ### Director of Engineering - Platform, _Oct 2017-Jan 2019_
-* Manage two teams and one engineering manager (11 engineers)
+* Managed two teams (Platform and Cloud Infra) and one engineering manager (11 engineers)
 * Teams building the microservice platform for the company: API-driven development (Swagger), codegen (C# + Scala), infrastructure-as-code
 * Teams working on proof-of-concept for a Kubernetes cluster, including Istio service mesh
 * Owned relationships with major external vendors (AWS, GCP, Datadog, CloudHealth)
 * Responsible for org-wide AWS budget of $2M/yr, plus visibility of spend at the team level
+* Established and led the Interview Guild, to improve Zocdoc's engineering interview processes
+* Led the Operational Excellence Guild, which examined outages in order to learn from them
 
 ## Bright Systems, Inc
 ### First Engineer, _Nov 2017-Oct 2018_
@@ -40,6 +42,7 @@
 * Active contributor to evangelism efforts: blog posts, speaking engagements, internal knowledge-sharing
 * Average tenure of full-time engineers on the team: 4+ years
 * Major projects: buy online / pickup in store, selling inventory across banners, migration to new ESP, rewriting order processing system
+* Led the Operational Excellence process
 
 ### Director of Engineering, Gilt Groupe BackOffice, _Mar 2015-Oct 2016_
 * Managed 6 teams (~20 engineers) for gilt.com; teams own most backend processes: purchase orders, product catalog, receiving, creative, sale management, fulfillment (domestic and international), marketing & transactional emails, third-party logistics, job system, plus Customer Transactions ownership listed below
