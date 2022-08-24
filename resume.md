@@ -2,8 +2,35 @@
 
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
+## Medly Pharmacy
+### VP of Engineering, _Oct 2020-Present_
+* Ran the entire US-based engineering org
+  * Engineering split across US and India (second VPE for India engineering org)
+  * Max of 50 engineers across US FTE and offshore contractors in Romania, Africa, LatAm
+  * Teams included: consumer facing web and iOS, Data Engineering, internal tools, DevOps, QA automation
+  * Max of 7 engineering managers as direct reports
+  * Both hired and grew internal engineers into manager roles
+  * Directly managed DevOps and QA automation
+  * Tight coordination with India-based teams
+  * Tight coordination with Product peers
+* Improved and formalized the interviewing process, using Greenhouse
+  * Doubled the size of the org in 1.5 yrs (from ~25 to 50)
+  * Conducted technical interviews for every US-based candidate (250+ interviews)
+* Established: [architecture council](https://github.com/medlypharmacy/hippoc), RFC process, Sprint Demos lightning talk series, architecture reviews, operational excellence reviews
+* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, MSSQL, Snowflake, OpenTelemetry
+  * Managed within HIPAA constraints
+  * Established the infrastructure-as-code approach
+  * Helped debug and resolve production issues
+  * Most senior engineering/architectural guide, with knowledge about all parts of the system
+  * Guided/assisted the DevOps team in building a codegen-first microservice platform
+* Managed the team through difficult times
+  * Retention of key players after an acquisition
+  * One round of layoffs
+  * Some performance improvement plans
+
+
 ## Moda Operandi
-### VP of Engineering, _Jan 2019-Present_
+### VP of Engineering, _Jan 2019-Oct 2020_
 * Directly manage DevOps/Platform team (5 engineers)
 * QA, Corporate IT, and Data also in my org
 * Established formalized interviewing process, using Greenhouse
