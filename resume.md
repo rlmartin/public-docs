@@ -2,8 +2,26 @@
 
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
+## Vesta Healthcare
+### VP of Engineering, _Nov 2020-Present_
+* Ran the Tech oragnization
+  * One team of 5 engineers + Product Manager
+* Member of the Executive Leadership Team
+* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, Java, Snowflake, Fivetran
+
+
+## Juni Health
+### Co-Founder and CTO, _Sept 2022-Present_
+* Developed the consumer-facing product, including:
+  * Backend API (Python)
+  * Frontend website (https://junihealth.com, React, TypeScript)
+  * Windows application + installer (C#)
+  * All infrastructure (AWS, CDKTF)
+* Managed all IT functions
+
+
 ## Medly Pharmacy
-### VP of Engineering, _Oct 2020-Present_
+### VP of Engineering, _Oct 2020-Nov 2022_
 * Ran the entire US-based engineering org
   * Engineering split across US and India (second VPE for India engineering org)
   * Max of 50 engineers across US FTE and offshore contractors in Romania, Africa, LatAm
@@ -25,7 +43,7 @@
   * Guided/assisted the DevOps team in building a codegen-first microservice platform
 * Managed the team through difficult times
   * Retention of key players after an acquisition
-  * One round of layoffs
+  * Two rounds of layoffs
   * Some performance improvement plans
 
 
@@ -111,4 +129,4 @@
 * Other: Play Framework, Ruby on Rails, Git, Terraform, New Relic, Jenkins, JIRA, Gerrit, modern web (HTML, CSS, XML, REST, etc), API-driven development, PagerDuty, iOS/Swift
 
 ## Interests & Activities
-My 5 y/o son & 2 y/o daughter, craft beer, mountain biking, running, snowboarding, kayaking, rock climbing, backpacking, swimming
+My 9 y/o son & 5 y/o daughter, craft beer, mountain biking, running, snowboarding, kayaking, rock climbing, backpacking, swimming
