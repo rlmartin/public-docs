@@ -3,21 +3,31 @@
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
 ## Vesta Healthcare
-### VP of Engineering, _Nov 2020-Present_
-* Ran the Tech oragnization
-  * One team of 5 engineers + Product Manager
+### VP of Engineering, _Nov 2022-Present_
+* Run the Tech oragnization + all technical functions for the company:
+  * Product Engineering team of 5 engineers + Product Manager
+  * IT + Infosec team of 5
+  * Data (Engineering + Analytics) team of 5
 * Member of the Executive Leadership Team
-* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, Java, Snowflake, Fivetran
+* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, Java, UiPath
+* Hands-on work with the data stack: Snowflake, dbt, Fivetran, Tableau
+* Own integrations with: eClinicalWorks (EMR), Salesforce, Ring Central
+* Full-time staff in US + Spain, offshore contractors in the Ukraine
 
 
 ## Juni Health
 ### Co-Founder and CTO, _Sept 2022-Present_
 * Developed the consumer-facing product, including:
-  * Backend API (Python)
+  * Backend API (Python), including deploying AI models
   * Frontend website (https://junihealth.com, React, TypeScript)
   * Windows application + installer (C#)
-  * All infrastructure (AWS, CDKTF)
-* Managed all IT functions
+  * All infrastructure:
+    * CDKTF
+    * AWS: ECS, RDS (Postgres), Lambda, Event Bridge, networking, IAM, Transfer Family, Route53, S3
+* Manage all IT functions
+* Software deployed at Yale New Haven Hospital System
+  * Passed security review
+  * Signed BAA
 
 
 ## Medly Pharmacy
