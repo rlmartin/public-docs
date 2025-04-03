@@ -2,19 +2,6 @@
 
 [![Email](images/email.png) rlmartin@gmail.com](mailto:rlmartin@gmail.com) | [![GitHub](images/github.png) @rlmartin](https://github.com/rlmartin) | [![LinkedIn](images/linkedin.png) @ryan-l-martin](https://www.linkedin.com/in/ryan-l-martin)
 
-## Vesta Healthcare
-### VP of Engineering, _Nov 2022-Present_
-* Run the Tech oragnization + all technical functions for the company:
-  * Product Engineering team of 5 engineers + Product Manager
-  * IT + Infosec team of 5
-  * Data (Engineering + Analytics) team of 5
-* Member of the Executive Leadership Team
-* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, Java, UiPath
-* Hands-on work with the data stack: Snowflake, dbt, Fivetran, Tableau
-* Own integrations with: eClinicalWorks (EMR), Salesforce, Ring Central
-* Full-time staff in US + Spain, offshore contractors in the Ukraine
-
-
 ## Juni Health
 ### Co-Founder and CTO, _Sept 2022-Present_
 * Developed the consumer-facing product, including:
@@ -28,6 +15,19 @@
 * Software deployed at Yale New Haven Hospital System
   * Passed security review
   * Signed BAA
+
+
+## Vesta Healthcare
+### VP of Engineering, _Nov 2022-Mar 2025_
+* Ran the Tech oragnization + all technical functions for the company:
+  * Product Engineering team of 5 engineers + Product Manager
+  * IT + Infosec team of 5
+  * Data (Engineering + Analytics) team of 5
+* Member of the Executive Leadership Team
+* Hands-on work with CDKTF, projen, AWS, GitHub Actions, PagerDuty, TypeScript, Postgresql, Java, UiPath
+* Hands-on work with the data stack: Snowflake, dbt, Fivetran, Tableau
+* Owned integrations with: eClinicalWorks (EMR), Salesforce, Ring Central
+* Full-time staff in US + Spain, offshore contractors in the Ukraine
 
 
 ## Medly Pharmacy
