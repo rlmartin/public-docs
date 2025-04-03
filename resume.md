@@ -126,17 +126,17 @@
 * _Software Developer / College Intern_, Casco Development, Inc.
 
 ## Side Projects
-* 3degrees, Co-founder and CTO, matchmaking dating app, http://threedegreesapp.com
+* 3degrees, Co-founder and CTO, matchmaking dating app
 * Quantified-self, personal logging project (not public)
 
 ## Education
 **Princeton University**, Computer Science B.S.E., American Studies Certificate, Class of 2001
 
 ## Technology Inventory
-* Languages: Scala, Java, JavaScript, Ruby; past experience in ASP.NET (C#, Visual Basic), PHP, VBScript
-* Databases: PostgreSQL, MySQL, Mongo; past experience in Oracle, MS SQL Server
+* Languages: Scala, Java, JavaScript, Ruby, Python; past experience in ASP.NET (C#, Visual Basic), PHP, VBScript
+* Databases: PostgreSQL, MySQL, Mongo, Snowflake; past experience in Oracle, MS SQL Server
 * Amazon Web Services: Lambda, CloudFormation, CloudWatch, API Gateway, S3, EC2, ECS, RDS, DynamoDB, SNS, SQS, Kinesis, KMS, CodeCommit, SES, Route53, Mechanical Turk
-* Other: Play Framework, Ruby on Rails, Git, Terraform, New Relic, Jenkins, JIRA, Gerrit, modern web (HTML, CSS, XML, REST, etc), API-driven development, PagerDuty, iOS/Swift
+* Other: Play Framework, Ruby on Rails, Git, Terraform, cdktf, New Relic, Jenkins, JIRA, Gerrit, modern web (HTML, CSS, XML, REST, etc), API-driven development, PagerDuty, iOS/Swift, Windows appdev
 
 ## Interests & Activities
-My 9 y/o son & 5 y/o daughter, craft beer, mountain biking, running, snowboarding, kayaking, rock climbing, backpacking, swimming
+My 10 y/o son & 7 y/o daughter, craft beer, mountain biking, soccer, running, snowboarding, kayaking, rock climbing, hiking, swimming
